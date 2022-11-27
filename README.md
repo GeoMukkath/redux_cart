@@ -9,4 +9,5 @@ It performs the following operations.
 3. Modal to clear the whole cart.
 4. Counts the total number of items and the total price.
 
-![brave_DISWx0HG50](https://user-images.githubusercontent.com/24621995/204150031-e08c1dca-3ee5-4160-9853-336b67fb650a.gif)
+
+![brave_lxo1QmxLvw](https://user-images.githubusercontent.com/24621995/204150126-23da4ed3-aa6a-4709-822c-efaf6b9f5268.gif)
